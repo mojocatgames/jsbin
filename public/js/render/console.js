@@ -1,4 +1,4 @@
-//= require "../vendor/prettyprint"
+/.//= require "../vendor/prettyprint"
 //= require "../vendor/stacktrace"
 
 var jsconsole = (function (window) {
